@@ -74,7 +74,7 @@ class EditorView extends Component {
        */
       options: {
         name: 'jscompiler',
-        value: '',
+        value: '//please wait for the template to load...',
         fontSize: 15,
         mode: 'javascript',
         theme: 'monokai',

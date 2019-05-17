@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "src/server/api/temp/"
+  ],
+  "watch": [
+    "src/server/"
+  ]
+}
